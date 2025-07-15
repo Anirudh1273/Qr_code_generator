@@ -1,0 +1,24 @@
+Name,Checklist,Location,Phase Number
+Pump 1,Mechanical,Plant A,1
+Valve 2,Electrical,Plant B,2
+Pipe 3,Civil,Plant C,3
+Motor 4,Mechanical,Plant D,1
+Switch 5,Electrical,Plant D,2
+Beam 6,Civil,Plant B,3
+Pump 7,Mechanical,Plant C,1
+Relay 8,Electrical,Plant A,2
+Column 9,Civil,Plant D,3
+Compressor 10,Mechanical,Plant B,1
+Fuse 11,Electrical,Plant A,2
+Slab 12,Civil,Plant C,3
+Fan 13,Mechanical,Plant A,1
+Sensor 14,Electrical,Plant B,2
+Wall 15,Civil,Plant C,3
+Blower 16,Mechanical,Plant A,1
+Breaker 17,Electrical,Plant D,2
+Foundation 18,Civil,Plant B,3
+Actuator 19,Mechanical,Plant D,1
+Connector 20,Electrical,Plant C,2
+Roof 21,Civil,Plant C,3
+Pump 22,Mechanical,Plant A,1
+Wire 23,Electrical,Plant B,2
